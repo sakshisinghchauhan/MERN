@@ -13,7 +13,7 @@ npm -v
 4. Arrange the window so that **VS Code, the terminal output (`node -v`), the Live Server extension and the browser tab running on `127.0.0.1:5500` are all visible, then take the screenshot.
 
 ## My proof
- ! [Setup-proof](Screenshot(1).png)
+  [Setup-proof](Screenshot(1).png)
 |Tool | Version |Installed correctly? |
 |-------|-------------|--------------------
 |VS Code | 	 1.140.0  | ✅
